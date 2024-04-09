@@ -1,0 +1,14 @@
+E:\MyProgrammingDATA\C_sharp\App\Capp1\bin\Debug\net8.0\Capp1.exe
+E:\MyProgrammingDATA\C_sharp\App\Capp1\bin\Debug\net8.0\Capp1.deps.json
+E:\MyProgrammingDATA\C_sharp\App\Capp1\bin\Debug\net8.0\Capp1.runtimeconfig.json
+E:\MyProgrammingDATA\C_sharp\App\Capp1\bin\Debug\net8.0\Capp1.dll
+E:\MyProgrammingDATA\C_sharp\App\Capp1\bin\Debug\net8.0\Capp1.pdb
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\Capp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\Capp1.AssemblyInfoInputs.cache
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\Capp1.AssemblyInfo.cs
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\Capp1.csproj.CoreCompileInputs.cache
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\Capp1.dll
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\refint\Capp1.dll
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\Capp1.pdb
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\Capp1.genruntimeconfig.cache
+E:\MyProgrammingDATA\C_sharp\App\Capp1\obj\Debug\net8.0\ref\Capp1.dll
